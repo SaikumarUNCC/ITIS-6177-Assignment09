@@ -1,0 +1,4 @@
+function main(args) {
+    let keyword = args.keyword || 'hello'
+    return {"body": 'Sai Kumar says ' + keyword}
+  }
